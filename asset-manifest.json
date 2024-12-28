@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kings-barber/static/css/main.ae702761.css",
-    "main.js": "/kings-barber/static/js/main.a8e36654.js",
+    "main.css": "/kings-barber/static/css/main.6e33d2e5.css",
+    "main.js": "/kings-barber/static/js/main.edd9e65d.js",
     "static/js/151.b8e79d5e.chunk.js": "/kings-barber/static/js/151.b8e79d5e.chunk.js",
     "static/media/logo.png": "/kings-barber/static/media/logo.515ce2f73f17f210d5b6.png",
     "index.html": "/kings-barber/index.html",
-    "main.ae702761.css.map": "/kings-barber/static/css/main.ae702761.css.map",
-    "main.a8e36654.js.map": "/kings-barber/static/js/main.a8e36654.js.map",
+    "main.6e33d2e5.css.map": "/kings-barber/static/css/main.6e33d2e5.css.map",
+    "main.edd9e65d.js.map": "/kings-barber/static/js/main.edd9e65d.js.map",
     "151.b8e79d5e.chunk.js.map": "/kings-barber/static/js/151.b8e79d5e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae702761.css",
-    "static/js/main.a8e36654.js"
+    "static/css/main.6e33d2e5.css",
+    "static/js/main.edd9e65d.js"
   ]
 }
